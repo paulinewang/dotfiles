@@ -13,7 +13,7 @@ function cdls() {
 
 # Shell
 alias reshell="source ~/.bashrc"
-alias restow="~/Projects/dotfiles/stow/stow-all && source ~/.bashrc"
+alias restow="~/stow-all && source ~/.bashrc"
 
 # Navigation
 alias ~="cd ~"

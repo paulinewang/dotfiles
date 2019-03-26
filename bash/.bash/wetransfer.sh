@@ -1,5 +1,4 @@
 # Ruby
-export RBENV_VERSION=ruby-2.3.4
 eval "$(rbenv init -)"
 alias be="bundle exec"
 

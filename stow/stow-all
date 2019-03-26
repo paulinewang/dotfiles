@@ -3,7 +3,7 @@
 set -e
 
 (
-  cd ~/Projects/dotfiles
+  cd ~/cosmos/dotfiles
   # setup stow first
   stow stow
   # then stow everything else
